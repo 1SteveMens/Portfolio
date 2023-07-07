@@ -1,1 +1,2 @@
-
+This directory contains security audits that have been conducted for companies.
+Security Audit for Gilo Computers. Gilo Computers is a small business that sells computers in the US. The business has expanded and its customer base has equally increased. As such the company wants to use its website to allow customers to buy laptops and pay online. It also plans to expand its business to Europe. The focus of the audit was to improve the overall security posture of Gilo Computers
