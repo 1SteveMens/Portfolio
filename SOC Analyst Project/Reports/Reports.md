@@ -1,1 +1,0 @@
-This is to showcase the SUMO Logic Dashboards I have been using to monitor and analyze logs for threats. I created some of the dashboards panels from search queries while others were provided by the vendor
